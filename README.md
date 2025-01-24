@@ -1,21 +1,23 @@
-# EdInfoHub
+# AltechInfoHub
 
 ![Project Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge&logo)
 ![Frontend](https://img.shields.io/badge/Frontend-ReactJs-blue?style=for-the-badge&logo=react)
 ![Backend](https://img.shields.io/badge/Database-MongoDb-green?style=for-the-badge&logo=mongodb)
 ![Backend](https://img.shields.io/badge/Server-Node-lightgrey?style=for-the-badge&logo=node.js)
 
-This project is an Educational Resource Website aimed at providing a comprehensive platform for Ghanaian students to access free educational videos, practice exercises, and study materials in various subjects. The website is designed to support students from primary to senior high school, offering a wide range of resources to enhance their learning experience.
+This project is an Educational Website aimed to provide a comprehensive platform for students to access educational videos, notes, voice notes, practice exams write class exercises dropped by the teacher, and study materials in various subjects uploaded in the school library. The website is designed to support students from kindergarten, and primary to senior high school, it also manages all the school activities limiting the use of paperwork  it offers a wide range of resources to enhance the student learning experience and school management experience.
 
-Blog Post: [https://medium.com/@danielmbedobe/empowering-education-introducing-our-innovative-educational-resource-platform-53d6eca9043c]
+Blog Post: [https://altecschoolapp.com/index]
 
 ## Features
 
-- Free access to a vast collection of educational videos covering various subjects.
-- Practice exercises and quizzes to reinforce learning and assess knowledge.
+- access to a vast collection of educational materials covering various subjects uploaded on the E-library.
+- Practice exams and quizzes to reinforce learning and preparation for exams.
+- Ability to take a virtual lecture right from the platform.
 - Study materials and resources to support students in their academic pursuits.
-- Subject categories for easy navigation and exploration of specific topics.
-- User authentication and registration for personalized access to resources.
+- Manages all aspects of the school's department starting from the account to security
+- parent guidance and open communication system.
+- User authentication and registration for personalized access to classes and resources.
 - Resource upload feature for educators to contribute and share educational materials.
 
 ## Technologies To Use
@@ -29,8 +31,8 @@ Blog Post: [https://medium.com/@danielmbedobe/empowering-education-introducing-o
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-repo.git`
-2. Navigate to the project directory: `cd educational-resource-website`
+1. Clone the repository: `git clone https://github.com/your-repo.`
+2. Navigate to the project directory: `cd altech-classroom`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
@@ -49,16 +51,10 @@ We would like to express our gratitude to the contributors and developers of the
 
 ## Contact
 
-## For any inquiries or feedback, please contact us at any of the following:
 
-- [Github](https://github.com/MBEDOBE/)
-- [Youtube](https://youtube.com/@mbedev/)
-- [LinkedIn](https://www.linkedin.com/in/danielmbedobe)
-- [Medium](https://www.medium.com/@danielmbedobe)
-- [Twitter](https://www.twitter.com/@kd_mbedobe)
 
 ## Author
-**D. Mbedobe KUNJI**
+**Sammy  O.**
 
 
 
